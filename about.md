@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a [New York Code + Design Academy](https://nycda.com) student, soon to be graduate, that has an interest in fitness wearables and technology. I like designing applications that have clean, simple user experience that hides the complexities beneath. It's those complexities beneath the surface that I really enjoy programming in, along with an interest in hardware programming.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+If you'd like to see some of my projects, feel free to check out my 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Github](https://github.com/richardmable) or my [Portfolio](http://richardmable.com.s3-website-us-east-1.amazonaws.com/page2.html)
